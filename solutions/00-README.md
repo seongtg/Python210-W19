@@ -1,6 +1,6 @@
 # Solutions
-Place solutions in this directory as they become available.
+You can review these solutions as they become available and compare them to your own code. They are provided for comparison and are not directly determin grading your work, but if your code is close to these examples, yuo are doing fine!
 
-Remember to document your solutions, preferably mentioning where
-students might get tripped up. None of the teachers, and none of the students,
-want to debug *your* code.
+- Please remember that these are just one way to do the exercies and may not even the best way. 
+
+
